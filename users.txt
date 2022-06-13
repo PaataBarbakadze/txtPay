@@ -1,0 +1,4 @@
+1 pako pass pako@
+2 mari pass mari@
+3 ana pass ana@
+4 gio pass gio@
